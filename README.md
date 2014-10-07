@@ -6,9 +6,11 @@ socket_python
 - default -> HOST = '192.168.0.28'  # Endereco IP do Servidor
 - default -> PORT = 8080            # Porta que o Servidor esta
 
+_______________________________________________________________
 #### Requirements
   - Python 2.7
 
+_______________________________________________________________
 #### Cloning
 
     - git clone git@github.com:lucascastejon/socket_python.git
